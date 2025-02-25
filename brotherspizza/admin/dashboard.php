@@ -6,16 +6,11 @@ $totalPizza = getTotalPizza();
 $totalDrinks = getTotalDrinks();
 $totalOrders = getTotalOrders();
 $completedOrders = getCompletedOrders();
-
-
-
-
 ?>
 <style>
 .order-card {
     color: #fff;
 }
-
 .bg-c-blue {
     background: linear-gradient(45deg,#4099ff,#73b4ff);
 }
